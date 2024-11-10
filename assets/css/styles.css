@@ -1,0 +1,25 @@
+/* General styling */
+body {
+    font-family: 'Arial', sans-serif;
+}
+
+header {
+    background-color: #2d6a4f;
+    color: #fff;
+}
+
+a {
+    transition: color 0.3s ease;
+}
+
+a:hover {
+    color: #005f73;
+}
+
+/* Admin and user dashboard styling */
+.dashboard-section {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+}
